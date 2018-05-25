@@ -51,7 +51,15 @@ hr.star-primary {
 }
 
 
-img{
+.love{
+    border-radius: 0%
+}
+
+
+
+
+
+img {
       border-radius: 50%;
 
 }
